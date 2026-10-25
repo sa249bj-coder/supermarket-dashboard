@@ -1,17 +1,38 @@
 {
   "sources": [
     {
-      "name": "オーケー ひばりが丘店・公開掲載商品",
+      "name": "ブルーミングブルーミー ひばりが丘パルコ店・公開掲載商品",
       "type": "tokubai_html",
-      "url": "https://tokubai.co.jp/オーケー/175158",
-      "store_id": "ok_hibarigaoka",
+      "url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "store_id": "blooming_hibarigaoka_parco",
       "enabled": true
     },
     {
-      "name": "コープみらい ひばりが丘店・公開掲載商品",
+      "name": "西友 ひばりヶ丘店・公開掲載商品",
       "type": "tokubai_html",
-      "url": "https://tokubai.co.jp/コープみらい/7608",
-      "store_id": "coop_hibarigaoka",
+      "url": "https://tokubai.co.jp/西友/6343",
+      "store_id": "seiyu_hibarigaoka",
+      "enabled": true
+    },
+    {
+      "name": "いなげや 保谷駅前店・公開掲載商品",
+      "type": "tokubai_html",
+      "url": "https://tokubai.co.jp/いなげや/292154",
+      "store_id": "inageya_hoya_ekimae",
+      "enabled": true
+    },
+    {
+      "name": "西友 保谷店・公開掲載商品",
+      "type": "tokubai_html",
+      "url": "https://tokubai.co.jp/西友/6340",
+      "store_id": "seiyu_hoya",
+      "enabled": true
+    },
+    {
+      "name": "業務スーパー 保谷店・公開掲載商品",
+      "type": "tokubai_html",
+      "url": "https://tokubai.co.jp/業務スーパー/290466",
+      "store_id": "gyomu_hoya",
       "enabled": true
     }
   ]

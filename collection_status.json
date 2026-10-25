@@ -1,18 +1,13 @@
 {
-  "checked_at": "2026-10-25T16:55:18.257723+09:00",
-  "sources": 2,
-  "items": 29,
+  "checked_at": null,
+  "sources": 5,
+  "items": 0,
   "failed_all": false,
   "results": [
-    {
-      "source": "オーケー ひばりが丘店・公開掲載商品",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "source": "コープみらい ひばりが丘店・公開掲載商品",
-      "status": "ok",
-      "items": 26
-    }
+    {"source":"ブルーミングブルーミー ひばりが丘パルコ店・公開掲載商品","status":"pending","items":0},
+    {"source":"西友 ひばりヶ丘店・公開掲載商品","status":"pending","items":0},
+    {"source":"いなげや 保谷駅前店・公開掲載商品","status":"pending","items":0},
+    {"source":"西友 保谷店・公開掲載商品","status":"pending","items":0},
+    {"source":"業務スーパー 保谷店・公開掲載商品","status":"pending","items":0}
   ]
 }
