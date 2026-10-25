@@ -1,13 +1,33 @@
 {
-  "checked_at": null,
+  "checked_at": "2026-10-25T17:17:31.523598+09:00",
   "sources": 5,
-  "items": 0,
+  "items": 8,
   "failed_all": false,
   "results": [
-    {"source":"ブルーミングブルーミー ひばりが丘パルコ店・公開掲載商品","status":"pending","items":0},
-    {"source":"西友 ひばりヶ丘店・公開掲載商品","status":"pending","items":0},
-    {"source":"いなげや 保谷駅前店・公開掲載商品","status":"pending","items":0},
-    {"source":"西友 保谷店・公開掲載商品","status":"pending","items":0},
-    {"source":"業務スーパー 保谷店・公開掲載商品","status":"pending","items":0}
+    {
+      "source": "ブルーミングブルーミー ひばりが丘パルコ店・公開掲載商品",
+      "status": "ok",
+      "items": 4
+    },
+    {
+      "source": "西友 ひばりヶ丘店・公開掲載商品",
+      "status": "no_valid_products",
+      "items": 0
+    },
+    {
+      "source": "いなげや 保谷駅前店・公開掲載商品",
+      "status": "ok",
+      "items": 4
+    },
+    {
+      "source": "西友 保谷店・公開掲載商品",
+      "status": "no_valid_products",
+      "items": 0
+    },
+    {
+      "source": "業務スーパー 保谷店・公開掲載商品",
+      "status": "no_valid_products",
+      "items": 0
+    }
   ]
 }

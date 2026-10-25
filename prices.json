@@ -1,5 +1,5 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-10-25T17:17:31.523598+09:00",
   "stores": [
     {
       "id": "blooming_hibarigaoka_parco",
@@ -32,6 +32,160 @@
       "official_url": "https://gyomusuper.jp/shop/detail.php?sh_id=1274"
     }
   ],
-  "prices": [],
-  "price_history": []
+  "prices": [
+    {
+      "name": "ぶなしめじ 長野県産 1パック",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 106,
+      "size": "1パック",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-10-25T17:17:31.523598+09:00",
+      "valid_until": "2026-10-25",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "百歓みかん 愛媛県産 1ネット",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 646,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-10-25T17:17:31.523598+09:00",
+      "valid_until": "2026-10-25",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "白菜 北海道産などの国内産 1/4切",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 193,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-10-25T17:17:31.523598+09:00",
+      "valid_until": "2026-10-25",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "真だら切身 国内産 100g当り ※悪天候等により入荷がない際はご容赦ください。",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 430,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-10-25T17:17:31.523598+09:00",
+      "valid_until": "2026-10-25",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ぶなしめじ 長野県産 1パック",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 106,
+      "size": "1パック",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-10-25T17:17:31.523598+09:00",
+      "valid_until": "2026-10-25",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "百歓みかん 愛媛県産 1ネット",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 646,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-10-25T17:17:31.523598+09:00",
+      "valid_until": "2026-10-25",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "白菜 北海道産などの国内産 1/4切",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 193,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-10-25T17:17:31.523598+09:00",
+      "valid_until": "2026-10-25",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "真だら切身 国内産 100g当り ※悪天候等により入荷がない際はご容赦ください。",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 430,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-10-25T17:17:31.523598+09:00",
+      "valid_until": "2026-10-25",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    }
+  ],
+  "price_history": [
+    {
+      "item_key": "ぶなしめじ長野県産1パック|1パック|blooming_hibarigaoka_parco",
+      "checked_day": "2026-10-25",
+      "price_yen": 106
+    },
+    {
+      "item_key": "百歓みかん愛媛県産1ネット||blooming_hibarigaoka_parco",
+      "checked_day": "2026-10-25",
+      "price_yen": 646
+    },
+    {
+      "item_key": "白菜北海道産などの国内産1/4切||blooming_hibarigaoka_parco",
+      "checked_day": "2026-10-25",
+      "price_yen": 193
+    },
+    {
+      "item_key": "真だら切身国内産100g当り※悪天候等により入荷がない際はご容赦ください。|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-10-25",
+      "price_yen": 430
+    },
+    {
+      "item_key": "ぶなしめじ長野県産1パック|1パック|inageya_hoya_ekimae",
+      "checked_day": "2026-10-25",
+      "price_yen": 106
+    },
+    {
+      "item_key": "百歓みかん愛媛県産1ネット||inageya_hoya_ekimae",
+      "checked_day": "2026-10-25",
+      "price_yen": 646
+    },
+    {
+      "item_key": "白菜北海道産などの国内産1/4切||inageya_hoya_ekimae",
+      "checked_day": "2026-10-25",
+      "price_yen": 193
+    },
+    {
+      "item_key": "真だら切身国内産100g当り※悪天候等により入荷がない際はご容赦ください。|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-10-25",
+      "price_yen": 430
+    }
+  ]
 }
