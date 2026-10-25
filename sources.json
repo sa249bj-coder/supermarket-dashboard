@@ -1,1 +1,18 @@
-{"sources":[]}
+{
+  "sources": [
+    {
+      "name": "オーケー ひばりが丘店・公開掲載商品",
+      "type": "tokubai_html",
+      "url": "https://tokubai.co.jp/オーケー/175158",
+      "store_id": "ok_hibarigaoka",
+      "enabled": true
+    },
+    {
+      "name": "コープみらい ひばりが丘店・公開掲載商品",
+      "type": "tokubai_html",
+      "url": "https://tokubai.co.jp/コープみらい/7608",
+      "store_id": "coop_hibarigaoka",
+      "enabled": true
+    }
+  ]
+}
