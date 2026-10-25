@@ -1,0 +1,26 @@
+{
+  "updated_at": null,
+  "stores": [
+    {
+      "id": "ok_hibarigaoka",
+      "name": "オーケー ひばりが丘店"
+    },
+    {
+      "id": "coop_hibarigaoka",
+      "name": "コープみらい ひばりが丘店"
+    },
+    {
+      "id": "blooming",
+      "name": "ブルーミングブルーミー（対象店舗要確認）"
+    },
+    {
+      "id": "seiyu",
+      "name": "西友（対象店舗要確認）"
+    },
+    {
+      "id": "maruetsu",
+      "name": "マルエツ（対象店舗要確認）"
+    }
+  ],
+  "prices": []
+}
