@@ -12,6 +12,7 @@ import json
 import os
 from pathlib import Path
 import re
+import unicodedata
 from decimal import Decimal, ROUND_HALF_UP
 from urllib.request import Request, urlopen
 from urllib.parse import urlparse, urlsplit, urlunsplit, quote
@@ -153,7 +154,8 @@ def extract_tokubai(html,store_id,url,now):
         rows.append({'name':before,'store_id':store_id,'price_yen':price,
                      'size':size_match.group(1) if size_match else '',
                      'source_url':url,'checked_at':now.isoformat(),'valid_until':valid,
-                     'sale':False,'source_type':'featured_listing','comparison_confidence':'unverified'})
+                     'sale':False,'source_type':'featured_listing','listing_type':'featured',
+                     'channel':'in_store','comparison_confidence':'unverified'})
     return rows[:80]
 
 def check_row(p,valid_stores,now):
@@ -174,8 +176,32 @@ def check_row(p,valid_stores,now):
         except (ValueError,TypeError):return None
     row=dict(p)
     row['name']=row['name'].strip()
+    # Labels must be explicit, never infer 'regular price' from sale=False.
+    if row.get('listing_type') not in ('regular','featured','promotion','online_reference','unknown'):
+        row['listing_type']='unknown'
+    if row.get('channel') not in ('in_store','online_reference','unverified'):
+        row['channel']='unverified'
     row['price_yen']=int(Decimal(str(row['price_yen'])).quantize(Decimal('1'),rounding=ROUND_HALF_UP))
     return row
+
+def history_key(p):
+    # This is only a within-store history key; it does not prove cross-store identity.
+    def clean(v):
+        return ''.join(unicodedata.normalize('NFKC',str(v or '')).lower().split())
+    return clean(p['name'])+'|'+clean(p.get('size'))+'|'+p['store_id']
+
+def merge_history(existing,rows,now):
+    history=list(existing) if isinstance(existing,list) else []
+    today=now.date().isoformat()
+    today_prices={history_key(p):p for p in rows}
+    # A product can have multiple current listings with different variants: latest
+    # one per exact product wording+size+store is retained for the day's snapshot.
+    history=[v for v in history if v.get('checked_day')!=today or v.get('item_key') not in today_prices]
+    for key,p in today_prices.items():
+        history.append({'item_key':key,'checked_day':today,'price_yen':p['price_yen']})
+    cutoff=(now.date()-dt.timedelta(days=90)).isoformat()
+    history=[h for h in history if isinstance(h,dict) and str(h.get('checked_day',''))>=cutoff]
+    return history[-5000:]
 
 def collect():
     cfg=load('sources.json',{'sources':[]})
@@ -200,6 +226,16 @@ def collect():
                 payload=json.loads(get_text(url))
                 data=payload['prices']
                 if not isinstance(data,list):raise ValueError('prices must be an array')
+                # A provider-approved catalog can declare verified shelf vs online
+                # reference scope. Do not silently equate delivery and in-store price.
+                scoped=[]
+                for item in data:
+                    if not isinstance(item,dict):continue
+                    v=dict(item)
+                    v.setdefault('listing_type',src.get('listing_type','unknown'))
+                    v.setdefault('channel',src.get('channel','unverified'))
+                    scoped.append(v)
+                data=scoped
             else:raise ValueError('Unsupported source type')
             accepted=[v for p in data if (v:=check_row(p,valid_stores,now))]
             rows.extend(accepted)
@@ -215,6 +251,7 @@ def collect():
         for p in rows:
             dedup[(p['store_id'],p['name'],p['price_yen'])]=p
         db['prices']=list(dedup.values())
+        db['price_history']=merge_history(db.get('price_history',[]),db['prices'],now)
         db['updated_at']=now.isoformat() if rows else None
         write('prices.json',db)
     write('collection_status.json',{'checked_at':now.isoformat(),'sources':len(enabled),
