@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-10-30T16:01:23.434075+09:00",
+  "checked_at": "2026-10-31T10:02:10.232930+09:00",
   "sources": 5,
-  "items": 10,
+  "items": 12,
   "failed_all": false,
   "results": [
     {
       "source": "ブルーミングブルーミー ひばりが丘パルコ店・公開掲載商品",
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     {
       "source": "西友 ひばりヶ丘店・公開掲載商品",
@@ -17,7 +17,7 @@
     {
       "source": "いなげや 保谷駅前店・公開掲載商品",
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     {
       "source": "西友 保谷店・公開掲載商品",
