@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T15:55:52.816648+09:00",
+  "updated_at": "2026-11-01T10:12:28.025102+09:00",
   "stores": [
     {
       "id": "blooming_hibarigaoka_parco",
@@ -34,27 +34,13 @@
   ],
   "prices": [
     {
-      "name": "ブロッコリー 北海道産などの国内産 1コ",
-      "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 214,
-      "size": "",
-      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
       "name": "「桜姫鶏」（手羽元） 青森県産 100g当り",
       "store_id": "blooming_hibarigaoka_parco",
       "price_yen": 106,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -67,8 +53,22 @@
       "price_yen": 160,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "シャインマスカット 長野県産などの国内産 1パック",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 862,
+      "size": "1パック",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -81,8 +81,8 @@
       "price_yen": 74,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -95,8 +95,8 @@
       "price_yen": 322,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -109,22 +109,8 @@
       "price_yen": 970,
       "size": "1パック",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "ブロッコリー 北海道産などの国内産 1コ",
-      "store_id": "inageya_hoya_ekimae",
-      "price_yen": 214,
-      "size": "",
-      "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -137,8 +123,8 @@
       "price_yen": 106,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -151,8 +137,22 @@
       "price_yen": 160,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "シャインマスカット 長野県産などの国内産 1パック",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 862,
+      "size": "1パック",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -165,8 +165,8 @@
       "price_yen": 74,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -179,8 +179,8 @@
       "price_yen": 322,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -193,8 +193,8 @@
       "price_yen": 970,
       "size": "1パック",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-10-31T15:55:52.816648+09:00",
-      "valid_until": "2026-10-31",
+      "checked_at": "2026-11-01T10:12:28.025102+09:00",
+      "valid_until": "2026-11-01",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -451,6 +451,66 @@
     {
       "item_key": "ゼスプリサンゴールドキウイ(大パック)ニュージーランド産1パック|1パック|inageya_hoya_ekimae",
       "checked_day": "2026-10-31",
+      "price_yen": 970
+    },
+    {
+      "item_key": "「桜姫鶏」(手羽元)青森県産100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-01",
+      "price_yen": 106
+    },
+    {
+      "item_key": "牛豚挽肉(6:4)(解凍肉含む)100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-01",
+      "price_yen": 160
+    },
+    {
+      "item_key": "シャインマスカット長野県産などの国内産1パック|1パック|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-01",
+      "price_yen": 862
+    },
+    {
+      "item_key": "イチオシ!日原さんのかぼちゃ北海道産100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-01",
+      "price_yen": 74
+    },
+    {
+      "item_key": "いるま野のさといも(孫芋)埼玉県産などの国内産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-01",
+      "price_yen": 322
+    },
+    {
+      "item_key": "ゼスプリサンゴールドキウイ(大パック)ニュージーランド産1パック|1パック|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-01",
+      "price_yen": 970
+    },
+    {
+      "item_key": "「桜姫鶏」(手羽元)青森県産100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-01",
+      "price_yen": 106
+    },
+    {
+      "item_key": "牛豚挽肉(6:4)(解凍肉含む)100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-01",
+      "price_yen": 160
+    },
+    {
+      "item_key": "シャインマスカット長野県産などの国内産1パック|1パック|inageya_hoya_ekimae",
+      "checked_day": "2026-11-01",
+      "price_yen": 862
+    },
+    {
+      "item_key": "イチオシ!日原さんのかぼちゃ北海道産100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-01",
+      "price_yen": 74
+    },
+    {
+      "item_key": "いるま野のさといも(孫芋)埼玉県産などの国内産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-01",
+      "price_yen": 322
+    },
+    {
+      "item_key": "ゼスプリサンゴールドキウイ(大パック)ニュージーランド産1パック|1パック|inageya_hoya_ekimae",
+      "checked_day": "2026-11-01",
       "price_yen": 970
     }
   ]
