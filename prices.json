@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:21:50.262247+09:00",
+  "updated_at": "2026-11-07T10:03:18.293261+09:00",
   "stores": [
     {
       "id": "blooming_hibarigaoka_parco",
@@ -34,69 +34,13 @@
   ],
   "prices": [
     {
-      "name": "お刺身用かつお土佐造り平盛 120g入",
-      "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 430,
-      "size": "120g",
-      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "国産豚挽肉（解凍肉含む） 100g当り",
-      "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 139,
-      "size": "100g",
-      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "いるま野のさといも（孫芋） 埼玉県産 1袋",
-      "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 322,
-      "size": "1袋",
-      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "粒っこゆら早生みかん 和歌山県産などの国内産 1ネット",
-      "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 518,
-      "size": "",
-      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "イチオシ ! そのまま使える里山ぶなしめじ 長野県産などの国内産 1袋",
+      "name": "一株採りえのき茸 長野県産 1袋",
       "store_id": "blooming_hibarigaoka_parco",
       "price_yen": 106,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -104,55 +48,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "お刺身用かつお土佐造り平盛 120g入",
-      "store_id": "inageya_hoya_ekimae",
-      "price_yen": 430,
-      "size": "120g",
-      "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "国産豚挽肉（解凍肉含む） 100g当り",
-      "store_id": "inageya_hoya_ekimae",
-      "price_yen": 139,
-      "size": "100g",
-      "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "いるま野のさといも（孫芋） 埼玉県産 1袋",
-      "store_id": "inageya_hoya_ekimae",
-      "price_yen": 322,
-      "size": "1袋",
-      "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "粒っこゆら早生みかん 和歌山県産などの国内産 1ネット",
-      "store_id": "inageya_hoya_ekimae",
-      "price_yen": 518,
+      "name": "百歓みかん 愛媛県産 1ネット",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 626,
       "size": "",
-      "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -160,13 +62,111 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "イチオシ ! そのまま使える里山ぶなしめじ 長野県産などの国内産 1袋",
+      "name": "白菜 茨城県産などの国内産 1/4切",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 193,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "真だら切身 国内産 100g当り ※悪天候等により入荷がない際はご容赦ください。",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 322,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "イチオシ ! 国産若鶏（むね） 100g当り ※エコパック・1kg袋・ハーフカットは除く。",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 74,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "一株採りえのき茸 長野県産 1袋",
       "store_id": "inageya_hoya_ekimae",
       "price_yen": 106,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-06T16:21:50.262247+09:00",
-      "valid_until": "2026-11-06",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "百歓みかん 愛媛県産 1ネット",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 626,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "白菜 茨城県産などの国内産 1/4切",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 171,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "真だら切身 国内産 100g当り ※悪天候等により入荷がない際はご容赦ください。",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 322,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "イチオシ ! 国産若鶏（むね） 100g当り ※エコパック・1kg袋・ハーフカットは除く。",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 74,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-07T10:03:18.293261+09:00",
+      "valid_until": "2026-11-07",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -774,6 +774,56 @@
       "item_key": "イチオシ!そのまま使える里山ぶなしめじ長野県産などの国内産1袋|1袋|inageya_hoya_ekimae",
       "checked_day": "2026-11-06",
       "price_yen": 106
+    },
+    {
+      "item_key": "一株採りえのき茸長野県産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-07",
+      "price_yen": 106
+    },
+    {
+      "item_key": "百歓みかん愛媛県産1ネット||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-07",
+      "price_yen": 626
+    },
+    {
+      "item_key": "白菜茨城県産などの国内産1/4切||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-07",
+      "price_yen": 193
+    },
+    {
+      "item_key": "真だら切身国内産100g当り※悪天候等により入荷がない際はご容赦ください。|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-07",
+      "price_yen": 322
+    },
+    {
+      "item_key": "イチオシ!国産若鶏(むね)100g当り※エコパック・1kg袋・ハーフカットは除く。|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-07",
+      "price_yen": 74
+    },
+    {
+      "item_key": "一株採りえのき茸長野県産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-07",
+      "price_yen": 106
+    },
+    {
+      "item_key": "百歓みかん愛媛県産1ネット||inageya_hoya_ekimae",
+      "checked_day": "2026-11-07",
+      "price_yen": 626
+    },
+    {
+      "item_key": "白菜茨城県産などの国内産1/4切||inageya_hoya_ekimae",
+      "checked_day": "2026-11-07",
+      "price_yen": 171
+    },
+    {
+      "item_key": "真だら切身国内産100g当り※悪天候等により入荷がない際はご容赦ください。|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-07",
+      "price_yen": 322
+    },
+    {
+      "item_key": "イチオシ!国産若鶏(むね)100g当り※エコパック・1kg袋・ハーフカットは除く。|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-07",
+      "price_yen": 74
     }
   ]
 }
