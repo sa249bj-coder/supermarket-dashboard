@@ -1,5 +1,5 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-11-11T10:09:46.402166+09:00",
   "stores": [
     {
       "id": "blooming_hibarigaoka_parco",
@@ -32,7 +32,148 @@
       "official_url": "https://gyomusuper.jp/shop/detail.php?sh_id=1274"
     }
   ],
-  "prices": [],
+  "prices": [
+    {
+      "name": "きゅうり 埼玉県産などの国内産 1本",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 74,
+      "size": "1本",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ピーマン 茨城県産などの国内産 1袋",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 150,
+      "size": "1袋",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "お刺身用きはだまぐろ切落し 100g当り",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 430,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "粒っこゆら早生 和歌山県産などの国内産 1ネット",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 518,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "イチオシ ! 国産若鶏手羽小間（むね）（解凍） 100g当り",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 117,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "きゅうり 埼玉県産などの国内産 1本",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 52,
+      "size": "1本",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ピーマン 茨城県産などの国内産 1袋",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 106,
+      "size": "1袋",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "お刺身用きはだまぐろ切落し 100g当り",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 430,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "粒っこゆら早生 和歌山県産などの国内産 1ネット",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 518,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "イチオシ ! 国産若鶏手羽小間（むね）（解凍） 100g当り",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 117,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-11T10:09:46.402166+09:00",
+      "valid_until": "2026-11-11",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    }
+  ],
   "price_history": [
     {
       "item_key": "ぶなしめじ長野県産1パック|1パック|blooming_hibarigaoka_parco",
@@ -733,6 +874,56 @@
       "item_key": "イチオシ!国産若鶏(むね)100g当り※エコパック・1kg袋・ハーフカットは除く。|100g|inageya_hoya_ekimae",
       "checked_day": "2026-11-08",
       "price_yen": 74
+    },
+    {
+      "item_key": "きゅうり埼玉県産などの国内産1本|1本|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-11",
+      "price_yen": 74
+    },
+    {
+      "item_key": "ピーマン茨城県産などの国内産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-11",
+      "price_yen": 150
+    },
+    {
+      "item_key": "お刺身用きはだまぐろ切落し100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-11",
+      "price_yen": 430
+    },
+    {
+      "item_key": "粒っこゆら早生和歌山県産などの国内産1ネット||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-11",
+      "price_yen": 518
+    },
+    {
+      "item_key": "イチオシ!国産若鶏手羽小間(むね)(解凍)100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-11",
+      "price_yen": 117
+    },
+    {
+      "item_key": "きゅうり埼玉県産などの国内産1本|1本|inageya_hoya_ekimae",
+      "checked_day": "2026-11-11",
+      "price_yen": 52
+    },
+    {
+      "item_key": "ピーマン茨城県産などの国内産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-11",
+      "price_yen": 106
+    },
+    {
+      "item_key": "お刺身用きはだまぐろ切落し100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-11",
+      "price_yen": 430
+    },
+    {
+      "item_key": "粒っこゆら早生和歌山県産などの国内産1ネット||inageya_hoya_ekimae",
+      "checked_day": "2026-11-11",
+      "price_yen": 518
+    },
+    {
+      "item_key": "イチオシ!国産若鶏手羽小間(むね)(解凍)100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-11",
+      "price_yen": 117
     }
   ]
 }
