@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T16:22:35.327470+09:00",
+  "updated_at": "2026-11-14T10:06:43.668962+09:00",
   "stores": [
     {
       "id": "blooming_hibarigaoka_parco",
@@ -34,13 +34,13 @@
   ],
   "prices": [
     {
-      "name": "きゅうり 埼玉県産などの国内産 1本",
+      "name": "玉ねぎ 北海道産 1袋",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 74,
-      "size": "1本",
+      "price_yen": 214,
+      "size": "1袋",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -48,41 +48,27 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "ピーマン 茨城県産などの国内産 1袋",
+      "name": "まぐろたたき 230g入",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 970,
+      "size": "230g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "アボカド（中玉） メキシコ産 1コ",
       "store_id": "blooming_hibarigaoka_parco",
       "price_yen": 150,
-      "size": "1袋",
-      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "お刺身用きはだまぐろ切落し 100g当り",
-      "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 430,
-      "size": "100g",
-      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
-      "sale": false,
-      "source_type": "featured_listing",
-      "listing_type": "featured",
-      "channel": "in_store",
-      "comparison_confidence": "unverified"
-    },
-    {
-      "name": "粒っこゆら早生 和歌山県産などの国内産 1ネット",
-      "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 518,
       "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -90,13 +76,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "イチオシ ! 国産若鶏手羽小間（むね）（解凍） 100g当り",
+      "name": "国産黒毛和牛小間切れ 100g当り",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 117,
+      "price_yen": 646,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -104,13 +90,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "きゅうり 埼玉県産などの国内産 1本",
-      "store_id": "inageya_hoya_ekimae",
-      "price_yen": 52,
-      "size": "1本",
-      "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
+      "name": "ミニトマト 熊本県産などの国内産 1パック",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 322,
+      "size": "1パック",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -118,13 +104,69 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "ピーマン 茨城県産などの国内産 1袋",
+      "name": "豚肉小間切れ（大きいーな） アメリカ産 100g当り",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 96,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "得しま撰果 種なし柿 和歌山県産などの国内産 1袋",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 754,
+      "size": "1袋",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "日本海荒海育ち銀鮭切身（養殖・解凍） 鳥取県産 100g当り",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 387,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "イチオシ ! 国産美味豚（小間切れ・ブロック（肩）） 各100g当り",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 171,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "玉ねぎ 北海道産 1袋",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 106,
+      "price_yen": 171,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -132,13 +174,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "お刺身用きはだまぐろ切落し 100g当り",
+      "name": "まぐろたたき 230g入",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 430,
-      "size": "100g",
+      "price_yen": 970,
+      "size": "230g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -146,13 +188,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "粒っこゆら早生 和歌山県産などの国内産 1ネット",
+      "name": "アボカド（中玉） メキシコ産 1コ",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 518,
+      "price_yen": 150,
       "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -160,13 +202,83 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "イチオシ ! 国産若鶏手羽小間（むね）（解凍） 100g当り",
+      "name": "国産黒毛和牛小間切れ 100g当り",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 117,
+      "price_yen": 646,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-13T16:22:35.327470+09:00",
-      "valid_until": "2026-11-13",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ミニトマト 熊本県産などの国内産 1パック",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 322,
+      "size": "1パック",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "豚肉小間切れ（大きいーな） アメリカ産 100g当り",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 96,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "得しま撰果 種なし柿 和歌山県産などの国内産 1袋",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 754,
+      "size": "1袋",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "日本海荒海育ち銀鮭切身（養殖・解凍） 鳥取県産 100g当り",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 387,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "イチオシ ! 国産美味豚（小間切れ・ブロック（肩）） 各100g当り",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 171,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-14T10:06:43.668962+09:00",
+      "valid_until": "2026-11-14",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -1024,6 +1136,96 @@
       "item_key": "イチオシ!国産若鶏手羽小間(むね)(解凍)100g当り|100g|inageya_hoya_ekimae",
       "checked_day": "2026-11-13",
       "price_yen": 117
+    },
+    {
+      "item_key": "玉ねぎ北海道産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-14",
+      "price_yen": 214
+    },
+    {
+      "item_key": "まぐろたたき230g入|230g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-14",
+      "price_yen": 970
+    },
+    {
+      "item_key": "アボカド(中玉)メキシコ産1コ||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-14",
+      "price_yen": 150
+    },
+    {
+      "item_key": "国産黒毛和牛小間切れ100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-14",
+      "price_yen": 646
+    },
+    {
+      "item_key": "ミニトマト熊本県産などの国内産1パック|1パック|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-14",
+      "price_yen": 322
+    },
+    {
+      "item_key": "豚肉小間切れ(大きいーな)アメリカ産100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-14",
+      "price_yen": 96
+    },
+    {
+      "item_key": "得しま撰果種なし柿和歌山県産などの国内産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-14",
+      "price_yen": 754
+    },
+    {
+      "item_key": "日本海荒海育ち銀鮭切身(養殖・解凍)鳥取県産100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-14",
+      "price_yen": 387
+    },
+    {
+      "item_key": "イチオシ!国産美味豚(小間切れ・ブロック(肩))各100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-14",
+      "price_yen": 171
+    },
+    {
+      "item_key": "玉ねぎ北海道産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-14",
+      "price_yen": 171
+    },
+    {
+      "item_key": "まぐろたたき230g入|230g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-14",
+      "price_yen": 970
+    },
+    {
+      "item_key": "アボカド(中玉)メキシコ産1コ||inageya_hoya_ekimae",
+      "checked_day": "2026-11-14",
+      "price_yen": 150
+    },
+    {
+      "item_key": "国産黒毛和牛小間切れ100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-14",
+      "price_yen": 646
+    },
+    {
+      "item_key": "ミニトマト熊本県産などの国内産1パック|1パック|inageya_hoya_ekimae",
+      "checked_day": "2026-11-14",
+      "price_yen": 322
+    },
+    {
+      "item_key": "豚肉小間切れ(大きいーな)アメリカ産100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-14",
+      "price_yen": 96
+    },
+    {
+      "item_key": "得しま撰果種なし柿和歌山県産などの国内産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-14",
+      "price_yen": 754
+    },
+    {
+      "item_key": "日本海荒海育ち銀鮭切身(養殖・解凍)鳥取県産100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-14",
+      "price_yen": 387
+    },
+    {
+      "item_key": "イチオシ!国産美味豚(小間切れ・ブロック(肩))各100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-14",
+      "price_yen": 171
     }
   ]
 }
