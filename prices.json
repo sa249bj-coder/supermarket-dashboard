@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T16:24:36.145469+09:00",
+  "updated_at": "2026-11-21T10:17:19.799223+09:00",
   "stores": [
     {
       "id": "blooming_hibarigaoka_parco",
@@ -34,13 +34,13 @@
   ],
   "prices": [
     {
-      "name": "国産豚肉小間切れ 100g当り",
+      "name": "真穴みかん 愛媛県産 1袋",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 150,
-      "size": "100g",
+      "price_yen": 734,
+      "size": "1袋",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -48,13 +48,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "白菜 茨城県産などの国内産 1/4切",
+      "name": "長ねぎ 群馬県産などの国内産 1束",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 150,
+      "price_yen": 171,
       "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -62,13 +62,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "みかん（中） 愛媛県産などの国内産 1袋",
+      "name": "にんにく 青森県産などの国内産 1コ",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 495,
-      "size": "1袋",
+      "price_yen": 193,
+      "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -76,13 +76,41 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "日本海荒海育ち銀鮭切身（養殖・解凍） 鳥取県産 100g当り",
+      "name": "ブロッコリー 埼玉県産などの国内産 1コ",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 387,
+      "price_yen": 193,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "やわらかふっくらうなぎ長焼 中国産 1尾入",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 861,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "牛豚挽肉（6:4）（解凍肉含む） 100g当り",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 149,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -90,13 +118,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "イチオシ ! そのまま使える里山ぶなしめじ 長野県産などの国内産 1袋",
+      "name": "イチオシ ! 牛肉ブロック（もも） オーストラリア産 100g当り",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 106,
-      "size": "1袋",
+      "price_yen": 409,
+      "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -104,13 +132,27 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "国産豚肉小間切れ 100g当り",
+      "name": "お刺身用生アトランティックサーモン（養殖） チリ産 腹柵（100g当り）",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 537,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "真穴みかん 愛媛県産 1袋",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 150,
-      "size": "100g",
+      "price_yen": 734,
+      "size": "1袋",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -118,13 +160,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "白菜 茨城県産などの国内産 1/4切",
+      "name": "長ねぎ 群馬県産などの国内産 1束",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 150,
+      "price_yen": 171,
       "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -132,13 +174,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "みかん（中） 愛媛県産などの国内産 1袋",
+      "name": "にんにく 青森県産などの国内産 1コ",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 495,
-      "size": "1袋",
+      "price_yen": 193,
+      "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -146,13 +188,41 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "日本海荒海育ち銀鮭切身（養殖・解凍） 鳥取県産 100g当り",
+      "name": "ブロッコリー 埼玉県産などの国内産 1コ",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 387,
+      "price_yen": 193,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "やわらかふっくらうなぎ長焼 中国産 1尾入",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 861,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "牛豚挽肉（6:4）（解凍肉含む） 100g当り",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 149,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -160,13 +230,27 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "イチオシ ! そのまま使える里山ぶなしめじ 長野県産などの国内産 1袋",
+      "name": "イチオシ ! 牛肉ブロック（もも） オーストラリア産 100g当り",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 106,
-      "size": "1袋",
+      "price_yen": 409,
+      "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-20T16:24:36.145469+09:00",
-      "valid_until": "2026-11-20",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "お刺身用生アトランティックサーモン（養殖） チリ産 腹柵（100g当り）",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 537,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-21T10:17:19.799223+09:00",
+      "valid_until": "2026-11-21",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -1454,6 +1538,86 @@
       "item_key": "イチオシ!そのまま使える里山ぶなしめじ長野県産などの国内産1袋|1袋|inageya_hoya_ekimae",
       "checked_day": "2026-11-20",
       "price_yen": 106
+    },
+    {
+      "item_key": "真穴みかん愛媛県産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-21",
+      "price_yen": 734
+    },
+    {
+      "item_key": "長ねぎ群馬県産などの国内産1束||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-21",
+      "price_yen": 171
+    },
+    {
+      "item_key": "にんにく青森県産などの国内産1コ||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-21",
+      "price_yen": 193
+    },
+    {
+      "item_key": "ブロッコリー埼玉県産などの国内産1コ||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-21",
+      "price_yen": 193
+    },
+    {
+      "item_key": "やわらかふっくらうなぎ長焼中国産1尾入||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-21",
+      "price_yen": 861
+    },
+    {
+      "item_key": "牛豚挽肉(6:4)(解凍肉含む)100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-21",
+      "price_yen": 149
+    },
+    {
+      "item_key": "イチオシ!牛肉ブロック(もも)オーストラリア産100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-21",
+      "price_yen": 409
+    },
+    {
+      "item_key": "お刺身用生アトランティックサーモン(養殖)チリ産腹柵(100g当り)|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-21",
+      "price_yen": 537
+    },
+    {
+      "item_key": "真穴みかん愛媛県産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-21",
+      "price_yen": 734
+    },
+    {
+      "item_key": "長ねぎ群馬県産などの国内産1束||inageya_hoya_ekimae",
+      "checked_day": "2026-11-21",
+      "price_yen": 171
+    },
+    {
+      "item_key": "にんにく青森県産などの国内産1コ||inageya_hoya_ekimae",
+      "checked_day": "2026-11-21",
+      "price_yen": 193
+    },
+    {
+      "item_key": "ブロッコリー埼玉県産などの国内産1コ||inageya_hoya_ekimae",
+      "checked_day": "2026-11-21",
+      "price_yen": 193
+    },
+    {
+      "item_key": "やわらかふっくらうなぎ長焼中国産1尾入||inageya_hoya_ekimae",
+      "checked_day": "2026-11-21",
+      "price_yen": 861
+    },
+    {
+      "item_key": "牛豚挽肉(6:4)(解凍肉含む)100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-21",
+      "price_yen": 149
+    },
+    {
+      "item_key": "イチオシ!牛肉ブロック(もも)オーストラリア産100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-21",
+      "price_yen": 409
+    },
+    {
+      "item_key": "お刺身用生アトランティックサーモン(養殖)チリ産腹柵(100g当り)|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-21",
+      "price_yen": 537
     }
   ]
 }
