@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T16:16:45.577381+09:00",
+  "updated_at": "2026-11-23T10:20:53.290741+09:00",
   "stores": [
     {
       "id": "blooming_hibarigaoka_parco",
@@ -34,13 +34,55 @@
   ],
   "prices": [
     {
+      "name": "にんにく スペイン産 1コ",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 105,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
       "name": "真穴みかん 愛媛県産 1袋",
       "store_id": "blooming_hibarigaoka_parco",
       "price_yen": 734,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ぶなしめじ 長野県産 1パック",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 105,
+      "size": "1パック",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "小松菜 茨城県産などの国内産 1袋",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 105,
+      "size": "1袋",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -53,8 +95,8 @@
       "price_yen": 171,
       "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -67,8 +109,8 @@
       "price_yen": 193,
       "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -81,8 +123,8 @@
       "price_yen": 193,
       "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -95,8 +137,22 @@
       "price_yen": 861,
       "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ネーブルオレンジ（中玉） オーストラリア産 1コ",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 105,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -109,8 +165,36 @@
       "price_yen": 149,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "豚肉切り落し味付各種 原料原産地：アメリカ 各100g当り",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 105,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "生しいたけ少量パック（菌床栽培） 岩手県産などの国内産 1袋",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 105,
+      "size": "1袋",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -123,8 +207,8 @@
       "price_yen": 409,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -137,8 +221,22 @@
       "price_yen": 537,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "にんにく スペイン産 1コ",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 105,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -151,8 +249,36 @@
       "price_yen": 734,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ぶなしめじ 長野県産 1パック",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 105,
+      "size": "1パック",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "小松菜 茨城県産などの国内産 1袋",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 105,
+      "size": "1袋",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -165,8 +291,8 @@
       "price_yen": 171,
       "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -179,8 +305,8 @@
       "price_yen": 193,
       "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -193,8 +319,8 @@
       "price_yen": 193,
       "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -207,8 +333,22 @@
       "price_yen": 861,
       "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ネーブルオレンジ（中玉） オーストラリア産 1コ",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 105,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -221,8 +361,36 @@
       "price_yen": 149,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "豚肉切り落し味付各種 原料原産地：アメリカ 各100g当り",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 105,
+      "size": "100g",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "生しいたけ少量パック（菌床栽培） 岩手県産などの国内産 1袋",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 105,
+      "size": "1袋",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -235,8 +403,8 @@
       "price_yen": 409,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -249,8 +417,8 @@
       "price_yen": 537,
       "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-22T16:16:45.577381+09:00",
-      "valid_until": "2026-11-22",
+      "checked_at": "2026-11-23T10:20:53.290741+09:00",
+      "valid_until": "2026-11-23",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -1697,6 +1865,146 @@
     {
       "item_key": "お刺身用生アトランティックサーモン(養殖)チリ産腹柵(100g当り)|100g|inageya_hoya_ekimae",
       "checked_day": "2026-11-22",
+      "price_yen": 537
+    },
+    {
+      "item_key": "にんにくスペイン産1コ||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "真穴みかん愛媛県産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 734
+    },
+    {
+      "item_key": "ぶなしめじ長野県産1パック|1パック|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "小松菜茨城県産などの国内産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "長ねぎ群馬県産などの国内産1束||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 171
+    },
+    {
+      "item_key": "にんにく青森県産などの国内産1コ||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 193
+    },
+    {
+      "item_key": "ブロッコリー埼玉県産などの国内産1コ||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 193
+    },
+    {
+      "item_key": "やわらかふっくらうなぎ長焼中国産1尾入||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 861
+    },
+    {
+      "item_key": "ネーブルオレンジ(中玉)オーストラリア産1コ||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "牛豚挽肉(6:4)(解凍肉含む)100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 149
+    },
+    {
+      "item_key": "豚肉切り落し味付各種原料原産地:アメリカ各100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "生しいたけ少量パック(菌床栽培)岩手県産などの国内産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "イチオシ!牛肉ブロック(もも)オーストラリア産100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 409
+    },
+    {
+      "item_key": "お刺身用生アトランティックサーモン(養殖)チリ産腹柵(100g当り)|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-23",
+      "price_yen": 537
+    },
+    {
+      "item_key": "にんにくスペイン産1コ||inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "真穴みかん愛媛県産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 734
+    },
+    {
+      "item_key": "ぶなしめじ長野県産1パック|1パック|inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "小松菜茨城県産などの国内産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "長ねぎ群馬県産などの国内産1束||inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 171
+    },
+    {
+      "item_key": "にんにく青森県産などの国内産1コ||inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 193
+    },
+    {
+      "item_key": "ブロッコリー埼玉県産などの国内産1コ||inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 193
+    },
+    {
+      "item_key": "やわらかふっくらうなぎ長焼中国産1尾入||inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 861
+    },
+    {
+      "item_key": "ネーブルオレンジ(中玉)オーストラリア産1コ||inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "牛豚挽肉(6:4)(解凍肉含む)100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 149
+    },
+    {
+      "item_key": "豚肉切り落し味付各種原料原産地:アメリカ各100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "生しいたけ少量パック(菌床栽培)岩手県産などの国内産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 105
+    },
+    {
+      "item_key": "イチオシ!牛肉ブロック(もも)オーストラリア産100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
+      "price_yen": 409
+    },
+    {
+      "item_key": "お刺身用生アトランティックサーモン(養殖)チリ産腹柵(100g当り)|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-23",
       "price_yen": 537
     }
   ]
