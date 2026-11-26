@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T17:26:47.020086+09:00",
+  "updated_at": "2026-11-26T17:10:38.961976+09:00",
   "stores": [
     {
       "id": "blooming_hibarigaoka_parco",
@@ -39,8 +39,8 @@
       "price_yen": 540,
       "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -53,8 +53,8 @@
       "price_yen": 495,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -67,8 +67,8 @@
       "price_yen": 540,
       "size": "1パック",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -81,8 +81,8 @@
       "price_yen": 171,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -95,8 +95,8 @@
       "price_yen": 171,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -109,8 +109,8 @@
       "price_yen": 540,
       "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -123,8 +123,8 @@
       "price_yen": 495,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -137,8 +137,8 @@
       "price_yen": 540,
       "size": "1パック",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -151,8 +151,8 @@
       "price_yen": 171,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -165,8 +165,8 @@
       "price_yen": 171,
       "size": "1袋",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-25T17:26:47.020086+09:00",
-      "valid_until": "2026-11-25",
+      "checked_at": "2026-11-26T17:10:38.961976+09:00",
+      "valid_until": "2026-11-26",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -1863,6 +1863,56 @@
     {
       "item_key": "なす高知県産などの国内産1袋(3本入)よりどり2点で300円(税込価格324円)※青果と青果以外の商品の組み合わせでは300円(税込価格324円)になりません。|1袋|inageya_hoya_ekimae",
       "checked_day": "2026-11-25",
+      "price_yen": 171
+    },
+    {
+      "item_key": "食卓応援セレクト銀鮭西京漬2切入||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-26",
+      "price_yen": 540
+    },
+    {
+      "item_key": "みかん(中)愛媛県産などの国内産1袋|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-26",
+      "price_yen": 495
+    },
+    {
+      "item_key": "イチオシ!国産豚肉超うす切り(もも)1パック300g入100g当り本体価格167円|1パック|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-26",
+      "price_yen": 540
+    },
+    {
+      "item_key": "ピーマン茨城県産などの国内産1袋よりどり2点で300円(税込価格324円)※青果と青果以外の商品の組み合わせでは300円(税込価格324円)になりません。|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-26",
+      "price_yen": 171
+    },
+    {
+      "item_key": "なす高知県産などの国内産1袋(3本入)よりどり2点で300円(税込価格324円)※青果と青果以外の商品の組み合わせでは300円(税込価格324円)になりません。|1袋|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-26",
+      "price_yen": 171
+    },
+    {
+      "item_key": "食卓応援セレクト銀鮭西京漬2切入||inageya_hoya_ekimae",
+      "checked_day": "2026-11-26",
+      "price_yen": 540
+    },
+    {
+      "item_key": "みかん(中)愛媛県産などの国内産1袋|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-26",
+      "price_yen": 495
+    },
+    {
+      "item_key": "イチオシ!国産豚肉超うす切り(もも)1パック300g入100g当り本体価格167円|1パック|inageya_hoya_ekimae",
+      "checked_day": "2026-11-26",
+      "price_yen": 540
+    },
+    {
+      "item_key": "ピーマン茨城県産などの国内産1袋よりどり2点で300円(税込価格324円)※青果と青果以外の商品の組み合わせでは300円(税込価格324円)になりません。|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-26",
+      "price_yen": 171
+    },
+    {
+      "item_key": "なす高知県産などの国内産1袋(3本入)よりどり2点で300円(税込価格324円)※青果と青果以外の商品の組み合わせでは300円(税込価格324円)になりません。|1袋|inageya_hoya_ekimae",
+      "checked_day": "2026-11-26",
       "price_yen": 171
     }
   ]
