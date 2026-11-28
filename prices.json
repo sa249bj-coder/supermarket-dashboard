@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T17:22:25.353540+09:00",
+  "updated_at": "2026-11-28T16:42:51.324787+09:00",
   "stores": [
     {
       "id": "blooming_hibarigaoka_parco",
@@ -34,13 +34,13 @@
   ],
   "prices": [
     {
-      "name": "食卓応援セレクト 銀鮭西京漬 2切入",
+      "name": "塩銀鮭甘塩味 チリ産 4切入",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 540,
+      "price_yen": 645,
       "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -48,13 +48,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "みかん（中） 愛媛県産などの国内産 1袋",
+      "name": "アボカド（中玉） メキシコ産 1コ",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 495,
-      "size": "1袋",
+      "price_yen": 150,
+      "size": "",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -62,13 +62,27 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "イチオシ ! 国産豚肉超うす切り（もも） 1パック300g入 100g当り本体価格167円",
+      "name": "白菜 茨城県産などの国内産 1/4切",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 540,
+      "price_yen": 150,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ミニトマト 熊本県産などの国内産 1パック",
+      "store_id": "blooming_hibarigaoka_parco",
+      "price_yen": 322,
       "size": "1パック",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -76,13 +90,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "ピーマン 茨城県産などの国内産 1袋 よりどり2点で300円（税込価格324円）※青果と青果以外の商品の組み合わせでは300円（税込価格324円）になりません。",
+      "name": "イチオシ ! 仙台牛小間切れ 宮城県産 100g当り",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 171,
-      "size": "1袋",
+      "price_yen": 646,
+      "size": "100g",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -90,13 +104,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "なす 高知県産などの国内産 1袋（3本入） よりどり2点で300円（税込価格324円）※青果と青果以外の商品の組み合わせでは300円（税込価格324円）になりません。",
+      "name": "生かき（生食用） 国内産 1パック ※悪天候等により入荷がない際はご容赦ください。",
       "store_id": "blooming_hibarigaoka_parco",
-      "price_yen": 171,
-      "size": "1袋",
+      "price_yen": 495,
+      "size": "1パック",
       "source_url": "https://tokubai.co.jp/ブルーミングブルーミー/169981",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -104,13 +118,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "食卓応援セレクト 銀鮭西京漬 2切入",
+      "name": "塩銀鮭甘塩味 チリ産 4切入",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 540,
+      "price_yen": 645,
       "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -118,13 +132,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "みかん（中） 愛媛県産などの国内産 1袋",
+      "name": "アボカド（中玉） メキシコ産 1コ",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 495,
-      "size": "1袋",
+      "price_yen": 150,
+      "size": "",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -132,13 +146,27 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "イチオシ ! 国産豚肉超うす切り（もも） 1パック300g入 100g当り本体価格167円",
+      "name": "白菜 茨城県産などの国内産 1/4切",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 540,
+      "price_yen": 150,
+      "size": "",
+      "source_url": "https://tokubai.co.jp/いなげや/292154",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
+      "sale": false,
+      "source_type": "featured_listing",
+      "listing_type": "featured",
+      "channel": "in_store",
+      "comparison_confidence": "unverified"
+    },
+    {
+      "name": "ミニトマト 熊本県産などの国内産 1パック",
+      "store_id": "inageya_hoya_ekimae",
+      "price_yen": 322,
       "size": "1パック",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -146,13 +174,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "ピーマン 茨城県産などの国内産 1袋 よりどり2点で300円（税込価格324円）※青果と青果以外の商品の組み合わせでは300円（税込価格324円）になりません。",
+      "name": "イチオシ ! 仙台牛小間切れ 宮城県産 100g当り",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 171,
-      "size": "1袋",
+      "price_yen": 646,
+      "size": "100g",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -160,13 +188,13 @@
       "comparison_confidence": "unverified"
     },
     {
-      "name": "なす 高知県産などの国内産 1袋（3本入） よりどり2点で300円（税込価格324円）※青果と青果以外の商品の組み合わせでは300円（税込価格324円）になりません。",
+      "name": "生かき（生食用） 国内産 1パック ※悪天候等により入荷がない際はご容赦ください。",
       "store_id": "inageya_hoya_ekimae",
-      "price_yen": 171,
-      "size": "1袋",
+      "price_yen": 495,
+      "size": "1パック",
       "source_url": "https://tokubai.co.jp/いなげや/292154",
-      "checked_at": "2026-11-27T17:22:25.353540+09:00",
-      "valid_until": "2026-11-27",
+      "checked_at": "2026-11-28T16:42:51.324787+09:00",
+      "valid_until": "2026-11-28",
       "sale": false,
       "source_type": "featured_listing",
       "listing_type": "featured",
@@ -1964,6 +1992,66 @@
       "item_key": "なす高知県産などの国内産1袋(3本入)よりどり2点で300円(税込価格324円)※青果と青果以外の商品の組み合わせでは300円(税込価格324円)になりません。|1袋|inageya_hoya_ekimae",
       "checked_day": "2026-11-27",
       "price_yen": 171
+    },
+    {
+      "item_key": "塩銀鮭甘塩味チリ産4切入||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-28",
+      "price_yen": 645
+    },
+    {
+      "item_key": "アボカド(中玉)メキシコ産1コ||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-28",
+      "price_yen": 150
+    },
+    {
+      "item_key": "白菜茨城県産などの国内産1/4切||blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-28",
+      "price_yen": 150
+    },
+    {
+      "item_key": "ミニトマト熊本県産などの国内産1パック|1パック|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-28",
+      "price_yen": 322
+    },
+    {
+      "item_key": "イチオシ!仙台牛小間切れ宮城県産100g当り|100g|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-28",
+      "price_yen": 646
+    },
+    {
+      "item_key": "生かき(生食用)国内産1パック※悪天候等により入荷がない際はご容赦ください。|1パック|blooming_hibarigaoka_parco",
+      "checked_day": "2026-11-28",
+      "price_yen": 495
+    },
+    {
+      "item_key": "塩銀鮭甘塩味チリ産4切入||inageya_hoya_ekimae",
+      "checked_day": "2026-11-28",
+      "price_yen": 645
+    },
+    {
+      "item_key": "アボカド(中玉)メキシコ産1コ||inageya_hoya_ekimae",
+      "checked_day": "2026-11-28",
+      "price_yen": 150
+    },
+    {
+      "item_key": "白菜茨城県産などの国内産1/4切||inageya_hoya_ekimae",
+      "checked_day": "2026-11-28",
+      "price_yen": 150
+    },
+    {
+      "item_key": "ミニトマト熊本県産などの国内産1パック|1パック|inageya_hoya_ekimae",
+      "checked_day": "2026-11-28",
+      "price_yen": 322
+    },
+    {
+      "item_key": "イチオシ!仙台牛小間切れ宮城県産100g当り|100g|inageya_hoya_ekimae",
+      "checked_day": "2026-11-28",
+      "price_yen": 646
+    },
+    {
+      "item_key": "生かき(生食用)国内産1パック※悪天候等により入荷がない際はご容赦ください。|1パック|inageya_hoya_ekimae",
+      "checked_day": "2026-11-28",
+      "price_yen": 495
     }
   ]
 }
